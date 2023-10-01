@@ -3,9 +3,9 @@
 - 🔭 Estudande de Desenvolvimento de Sistemas
 - 🌱 Estudando Javascript, NodeJs e React
 
-  <img display="flex" height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=lonelykkj&show_icons=true&theme=transparent" />
+  <img display="flex" align-itens="center" height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=lonelykkj&show_icons=true&theme=transparent" />
    <a href="https://github.com/anuraghazra/convoychat">
-  <img display="flex" height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lonelykkj&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
+  <img display="flex" align-itens="center" height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lonelykkj&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
   </a>
 
 <div style="display: inline_block"><br>
