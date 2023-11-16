@@ -23,8 +23,8 @@
 
 ## 
 
- <i> Rest a little brave warrior!</i> <br> <br>
- <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
+ <i> Get some rest, brave warrior!</i> <br> <br>
+ <img src="https://github.com/lonelykkj/lonelykkj/blob/main/Fire-Pixel.gif" width="220">
 
 ##
 
