@@ -1,7 +1,9 @@
-### Olá! Eu sou o Heitor👋
+### Hi! I am Heitor👋
 
-- 🔭 Estudande de Desenvolvimento de Sistemas
-- 🌱 Estudando Javascript, NodeJs e React
+- 🔭 Systems Development Student
+- 🌱 Studying Javascript, NodeJs and React
+
+##
 
 <div style="display: flex">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=lonelykkj&show_icons=true&theme=transparent" />
@@ -19,5 +21,11 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+## 
+
+ <i> Rest a little brave warrior!</i> <br> <br>
+ <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
+
+##
 
 
