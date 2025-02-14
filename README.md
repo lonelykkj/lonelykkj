@@ -5,7 +5,6 @@
 
 ##
 
- ![Stats](https://github-readme-stats.vercel.app/api?username=lonelykkj&show_icons=true&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonelykkj&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent)](https://github.com/anuraghazra/convoychat) 
 
 
 <div style="display: inline_block; margin-left: 10px;"><br>
