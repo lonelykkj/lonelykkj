@@ -1,7 +1,6 @@
 ### Hi! I am Heitor👋
 
 - 🔭 Systems Development Student
-- 🌱 Studying Javascript, NodeJs and React
 
 ##
 
