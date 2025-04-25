@@ -24,6 +24,5 @@
 
 <img src="https://github.com/lonelykkj/lonelykkj/blob/main/Fire-Pixel.gif" width="220">
 
----
 
 Feel free to check out my projects below!
