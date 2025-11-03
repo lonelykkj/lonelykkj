@@ -1,8 +1,8 @@
 ### Hi! I'm Heitor 👋
 
 - 👨‍💻 **Back-End** Developer 
-- 🔭 **Systems Development Student**
-- 💻 Passionate about **Back-End Development** with **Python** and **C#**
+- 🔭 **Computer Science Student**
+- 💻 Passionate about **Back-End Development** with **C#**
 
 ## Tech Stack
 
